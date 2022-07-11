@@ -1,0 +1,19 @@
+{
+    "name": "CommandPalette",
+    "alias": "commandpalette",
+    "description": "Enables users to global search and run defined commands.",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\CommandPalette\\Providers\\CommandPaletteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [
+        "morphling"
+    ],
+    "minimumCoreVersion": "",
+    "title": "Command Palette",
+    "version": "0.0.0",
+    "author": "Binome Way"
+}
